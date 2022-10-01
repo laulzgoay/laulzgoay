@@ -5,12 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laulzgoay" alt="laulzgoay" /></a> </p>
 
-- 🔭 我目前在折腾我的[博客](https://www.xjisme.com/)和[工作室](https://www.ymzsl.com)
+- 🔭 我目前在折腾我的[博客](https://www.smalljun.com/)和[工作室](https://www.ymzsl.com)
 - 🌱 目前我在学习前端开发相关 
 
 - 🤝 如果可以,我希望有人能在HTML入门方面提供指导
 
-- 📫 我的邮箱是 **i@xjisme.com**
+- 📫 我的邮箱是 **lgy@ymzsl.com**
 
 - ~~⚡ 我热爱白嫖,羊毛怎能放过（~~
 
